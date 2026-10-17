@@ -1,0 +1,6 @@
+falkordb
+fastapi
+uvicorn
+google-generativeai
+pytest
+requests
